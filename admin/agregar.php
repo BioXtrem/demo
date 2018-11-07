@@ -4,7 +4,7 @@
 	<meta charset="utf-8">
 	<meta name="description" content="Pagina demo">
 	<link rel="icon" href="../favicon.ico">
-	<title>Demo | Página principal</title>
+	<title>Demo | Administrar | Agregar</title>
 	<link rel="stylesheet" href="../res/css/materialize.min.css">
 </head>
 <body>
@@ -19,7 +19,7 @@
         		<div class="file-field input-field">
 					<div class="btn">
 						<span>File</span>
-						<input id="archivo" name="archivo" type="file" accept="image/*" required="">
+						<input id="archivo" name="archivo" type="file" accept="image/*" required>
 					</div>
 					<div class="file-path-wrapper">
 						<input class="file-path validate" type="text">
